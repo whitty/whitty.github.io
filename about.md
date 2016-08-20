@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+For pay I mostly work in embedded software which is a
+word with almost no meaning.  I've worked in telecommunications,
+medical, and audio-visual domains and on devices from 2K-12GB of RAM
+and 1-16 cores depending on your definitions.  Apparently they all
+have something in common that makes them embedded and other things not.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+For those projects I code in "whatever is appropriate" - in reality
+this means C++, shell, python, mostly.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm also a bit of a tools nerd - automated test, CI, build automation.
+
+When I'm not being paid I muck around in ruby mostly because its
+genuinely enjoyable to use.
