@@ -2,7 +2,7 @@
 layout: post
 title:  "PiTFT buttons as keyboard input with gpio-keys"
 date:   2017-01-15 23:13:14 +1100
-categories: raspberry-pi
+categories: linux raspberry-pi
 tags: raspberry-pi linux adafruit kernel
 ---
 
@@ -81,7 +81,7 @@ Second hurdle: familiarise self with `dtoverlay` and the `dtc` "device tree comp
 -bash: dtoverlay: command not found
 ```
 
-This took a bit of searching since `rpi-update` handles this for you - as I discussed [here](/raspberry-pi/2017/01/10/pi-kernel-source-with-adafruit-tft.html) - Adafruit doesn't play ball with `rpi-update`.  TL;DR the package needed is `libraspberrypi-bin`, which Adafruit also repackage.  `device-tree-compiler` is a standard Debian package.
+This took a bit of searching since `rpi-update` handles this for you - as I discussed [here](/linux/raspberry-pi/2017/01/10/pi-kernel-source-with-adafruit-tft.html) - Adafruit doesn't play ball with `rpi-update`.  TL;DR the package needed is `libraspberrypi-bin`, which Adafruit also repackage.  `device-tree-compiler` is a standard Debian package.
 
 I'll skip the details here, since someone with DTS experience on raspberry-pi probably got this easily.  Needless to say going round the horn a number of times I eventually came up with the following:
 

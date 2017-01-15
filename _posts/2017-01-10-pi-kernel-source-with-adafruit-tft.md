@@ -2,7 +2,7 @@
 layout: post
 title:  "Compiling kernel modules against PiTFT adafruit kernel - Raspberry Pi"
 date:   2017-01-10 20:50:12 +1100
-categories: raspberry-pi
+categories: linux raspberry-pi
 tags: raspberry-pi linux adafruit kernel
 ---
 
