@@ -2,8 +2,8 @@
 layout: post
 title:  "Compiling kernel modules against PiTFT adafruit kernel - Raspberry Pi"
 date:   2017-01-10 20:50:12 +1100
-categories: linux raspberry-pi adafruit
-tags: raspberry-pi linux 
+categories: raspberry-pi
+tags: raspberry-pi linux adafruit kernel
 ---
 
 Adafruit [provides](https://learn.adafruit.com/adafruit-2-8-pitft-capacitive-touch/easy-install) a turn-key distribution and script for getting started quickly with your [PiTFT](https://www.adafruit.com/product/2423).  This is all well and good until you want to start looking under the hood or making use of custom solutions.
